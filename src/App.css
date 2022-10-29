@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+div.navbar {
+  text-align: left;
+  color:black
+}
+div.logForm{
+  text-align: center;
+  border-style: solid;
+}
